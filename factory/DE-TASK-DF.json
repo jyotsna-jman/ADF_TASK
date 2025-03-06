@@ -1,0 +1,9 @@
+{
+	"name": "DE-TASK-DF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "95ec3d44-2f5e-44c4-bfd9-768eab7b2a8b",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}
